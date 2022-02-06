@@ -4,8 +4,8 @@
 Hi my friend!<BR>
 
 I'm Johannes Darienberg or Evvive, and this is my GitHub<BR>
-Most of the time I do pythonic stuff<BR>
-ATM I'm creating a programming language called Common Assembly Like Language (CALL)<BR>
+Most of the time I use python or javascript<BR>
+ATM I'm creating a programming language called StackBasic<BR>
 <BR>
 Contribs are always accepted!<BR>
 
